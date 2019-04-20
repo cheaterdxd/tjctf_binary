@@ -1,0 +1,6 @@
+blurry : tjctf{cl0se_1nspecti0n}
+Double Duty: tjctf{sekret_code}
+touch base : tjctf{j2st_s0m3_b4se64}
+corsair: tjctf{c0l0r_pl4n3s_ar3_c00l}
+sledshop: tjctf{5l3dd1n6_0mk4r_15_h4ppy_0mk4r}
+slicepie: tjctf{1snt_vsysc4l1_gr8?}
